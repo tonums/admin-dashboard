@@ -1,0 +1,26 @@
+
+TECHOLOGIEN
+
+- scss: easy und sehr nice
+- materialui icons wenn ich icons brauche
+
+PROJEKTSTRUKTUR
+
+- router am anfang macht sinn! 
+  (gedanken über projectstruktur machen)
+
+- pages ordner mit alles routes
+  jede route eigenen Ordner mit der scss file und jsx file
+
+CLEAN CODE
+
+
+
+
+STYLING
+ - überschrift kleiner als content und grau -> sieht nice aus
+ - weniger ist oft mehr
+ - global style file für colors
+ - wenn man position absolute verwendet  
+   => parent auf position relative machen
+ - 
